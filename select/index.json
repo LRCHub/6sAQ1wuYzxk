@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "TAKO∞TAKOVER",
+  "base_artist": "Ninomae Ina'nis",
+  "createdAt": "2026-03-17T14:06:46.566722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TAKO∞TAKOVER",
+      "artist": "Ninomae Ina’nis",
+      "has_synced": true,
+      "path": "select/01_TAKO∞TAKOVER_Ninomae_Ina’nis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TAKO∞TAKOVER (instrumental)",
+      "artist": "Ninomae Ina’nis",
+      "has_synced": true,
+      "path": "select/02_TAKO∞TAKOVER_(instrumental)_Ninomae_Ina’nis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAKO∞TAKOVER",
+      "artist": "Ninomae Ina'nis",
+      "has_synced": false,
+      "path": "select/pl_01_TAKO∞TAKOVER_Ninomae_Ina'nis.txt"
+    }
+  ]
+}
