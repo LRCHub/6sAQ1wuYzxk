@@ -1,0 +1,81 @@
+# Ninomae Ina'nis – TAKO∞TAKOVER
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.51] Enlightened by the powers that be
+[00:02.92] The ruler of a world run on INAsanity
+[00:05.59] It's clear to me they still can't see
+[00:07.87] I'm just a normal girl
+[00:09.66] Empowered by the Ancient Ones call
+[00:11.94] We're gonna be punstoppable we're not a cult
+[00:14.81] Nonsensical and nautical adventures lie in wait!!
+[00:18.45] Gimme a ONE EIGHT
+[00:19.40] ICHI HACHI TAKODACHI
+[00:20.58] ICHI HACHI TAKODACHI
+[00:21.76] Ina Ina Ina
+[00:22.88] Ina Ina
+[00:24.14] 俺のイナの世界線
+[00:26.38] 守るためにタコになろう
+[00:28.52] ICHI HACHI TAKODACHI
+[00:29.75] ICHI HACHI TAKODACHI
+[00:30.86] Ina Ina Ina
+[00:31.91] Ina Ina
+[00:33.25] いいタコになりますように
+[00:35.25] INAsanityで踊りましょう
+[00:37.53] Think of all that you could be
+[00:39.28] We're talking evolution, leave it all to me!
+[00:41.94] Maybe just touch of purple ink
+[00:45.09] What'cha think
+[00:46.42] It's a song you can't ignore
+[00:48.34] The Ancient Ones are calling you to be so much more
+[00:51.08] Just put your hand in mine and be reborn
+[00:54.15] INA blink
+[00:55.33] Tell me WAHt those legs are for
+[01:00.43] You could use 6 more
+[01:04.88] We could all get matching ears
+[01:07.55] They aren't really ears though
+[01:09.25] Sleepy eyes to fight your fears
+[01:13.67] Alright listen to my song am I striking a chord with you
+[01:16.12] Stringing you along so don't let me get bored of you
+[01:18.51] 80 million strong and we've still got some more to do
+[01:20.71] Everybody shout World DomINAtion
+[01:22.84] Can I bank on your emotion
+[01:24.06] Do I have you invested
+[01:25.12] I don't WAHnna hear you say that you're not INAterested
+[01:27.32] Your unwavering devotion isn't all I've requested
+[01:29.53] Do you care? Are you aware that you're my dearest creations
+[01:32.81] Oya oya A cute little takodachi found its way here
+[01:35.97] Experimentation might be necessary
+[01:38.22] Takos we HAVE to cook
+[01:41.43] ひっくりかえして 丸くして
+[01:43.53] コロコロまわして 焦がさずに
+[01:45.98] 外はカリっと 中ふわふわ
+[01:48.25] できたらソースで さあいただき
+[01:50.39] By the powers that be
+[01:52.14] The ruler of a world run on INAsanity
+[01:54.99] It's clear to me they still can't see
+[01:57.27] I'm just a normal girl
+[01:59.08] Empowered by the Ancient One's call
+[02:01.18] We're gonna be punstoppable, we're not a cult
+[02:03.90] Nonsensical and nautical adventures lie in wait
+[02:08.13] Let's takobout the future to be
+[02:10.87] Rewriting all of history in urgency
+[02:13.16] With cookies as our currency
+[02:15.36] This place can finally heal
+[02:17.32] Ina-subordination won't fly
+[02:19.54] Or else I'm making Takoyaki tabehouDIE
+[02:22.22] No doubt about it
+[02:23.67] Scream and shout it
+[02:24.81] Welcome to my WAHrld
+[02:52.95] So, it all goes back to eight and one
+[03:04.28] It's only world domination, and we've just begun
+[03:06.93] Ah what a place of never ending fun
+[03:08.89] I want the world dyed in violet before I'm done
+[03:17.05] Ina Ina Ina
+[03:18.16] Ina Ina
+[03:19.11] Ina Ina Ina
+[03:19.98] Ina Ina
+[03:20.67] Ina Ina Ina
+[03:21.49] Ina Ina
+```
